@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://nogegetu.github.io/sitemap/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/qkY/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/ZVy/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/Lyp/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/pUc/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/Yqy/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/fcI/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/AOi/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/mKh/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/wMF/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/lpb/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/crH/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/SEQ/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/TsE/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/QpX/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/HWR/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/tQu/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/MYV/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/IKk/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/Kmr/sitemap_index.nogegetu
+Sitemap: https://nogegetu.github.io/KOl/sitemap_index.nogegetu
